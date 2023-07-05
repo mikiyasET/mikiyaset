@@ -39,15 +39,13 @@
 
 - 🏠 Also I've a tech community called [Codeabay](https://codeabay.com/).
 <!--Intro end-->
-
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
+<br />
+<samp>
+  <a href="https://github.com/mikiyaset/github-readme-activity-graph">
+    <img alt="Mika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mikiyaset&theme=github-compact&hide_border=true" />
+  </a>
   <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Mika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mikiyaset&theme=github-compact&hide_border=true" /></a>
-<br/>
-  </samp>
+</samp>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
