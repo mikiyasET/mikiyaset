@@ -1,4 +1,9 @@
-
+<!--profile visit count-->
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=mikiyaset&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+  
+</div>
   
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -109,14 +114,6 @@
 <a href="https://t.me/m_miko" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a>
   
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=mikiyaset&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
