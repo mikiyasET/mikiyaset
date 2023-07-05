@@ -31,13 +31,11 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-
-- 📝 I like creating telegram bots
-
+- 🤖 I like developing telegram bots
 
 - 📫 Feel free to reach me out **mikiyaslemlemu@gmail.com**
 
-- 🏠 Also I've a tech community called [Codeabay](https://codeabay.com/).
+- 🏠 Also I've a tech company called [Codeabay](https://codeabay.com/).
 <!--Intro end-->
 <br />
 <samp>
