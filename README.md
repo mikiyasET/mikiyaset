@@ -18,7 +18,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/mikiyasET/mikiyaset/blob/9a5f9eaa02b43273af84a144a0ce6f539e8e7f2f/mikiyasET.svg"
        alt="snake" /></a>
 </div>
 
