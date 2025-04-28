@@ -93,7 +93,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,dart,flutter,php,bootstrap,c,cpp,css,tailwind,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,redis,postman,py,react,redux,tailwind,ts,vscode,blender,jquery,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,dart,flutter,php,bootstrap,c,cpp,css,tailwind,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,redis,postman,py,react,redux,tailwind,ts,vscode,blender,jquery,figma,postgresql&perline=10" />
   </a>
 </p>
 
