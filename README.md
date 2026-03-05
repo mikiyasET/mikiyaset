@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Experience & Projects
 * **Dragon Bot (CodeAbay):** A highly successful Telegram tapping game that scaled to over 600,000 users. At CodeAbay, we developed both the backend and frontend for this project. The project is now complete, and all user rewards have been successfully distributed.
-* **Enterprise Manufacturing ERP (Benjamin Plate):** A comprehensive, cross-platform management system built for complete factory automation. This end-to-end solution seamlessly handles all daily operations, including order processing, workforce administration, attendance tracking, automated payroll, and dynamic task management.
+* **Enterprise Manufacturing ERP (Benjamin Plate):** A comprehensive, cross-platform management system built for complete factory automation. This end-to-end solution seamlessly handles all daily operations, including order processing, workforce administration, attendance tracking, automated payroll and dynamic task management.
 * **Enterprise Systems:** Previously worked on large-scale infrastructure, including the Ethiopian lottery service project at Tamcon.
 And more ...
 <br />
